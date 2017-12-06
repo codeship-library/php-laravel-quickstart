@@ -1,3 +1,6 @@
+# Docker Compose-like syntax, see here for details:
+# https://documentation.codeship.com/pro/builds-and-configuration/services/
+
 web_codeship_example_php:
   build: .
   links:
