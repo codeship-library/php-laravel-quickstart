@@ -1,5 +1,5 @@
 # PHP/Laravel Quickstart with Codeship Pro
-TODO -- build status
+[ ![Codeship Status for whiteotter/php-laravel-quickstart](https://app.codeship.com/projects/8a6ba0e0-bc81-0135-6b4a-760477569b75/status?branch=master)](https://app.codeship.com/projects/259545)
 
 [PHP/Laravel Todo Backend](http://todobackend.com/) configured for testing on [Codeship Pro](https://codeship.com/features/pro)
 
