@@ -1,0 +1,3 @@
+- name: tests
+  service: web_codeship_example_php
+  command: bin/ci phpunit
